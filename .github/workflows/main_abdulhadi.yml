@@ -59,4 +59,4 @@ jobs:
         with:
           app-name: 'abdulhadi'
           slot-name: 'production'
-          publish-profile: ${{ secrets.AzureAppService_PublishProfile_a30397fe69f94954a5af2ea250bf7ed9 }}
+          publish-profile: ${{ secrets.AzureAppService_PublishProfile_ae2699f272bd4e40a7af07293f2bc4c7 }}
